@@ -7,7 +7,7 @@ if (main) {
 const newHeader = document.createElement('h1');
 newHeader.id = 'victory';
 
-const playerName = "rebekah"; 
+const playerName = "Rebekah"; 
 newHeader.textContent = `${playerName} is the champion`;
 
 document.body.appendChild(newHeader);
